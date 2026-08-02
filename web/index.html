@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TN Agriculture Welfare Schemes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@400;500;600&family=Noto+Sans+Tamil:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+  <!-- ===== Government top strip + language switch ===== -->
+  <div class="strip">
+    <span id="strip-text"></span>
+    <span class="lang">
+      <button id="lang-ta" onclick="setLang('ta')">தமிழ்</button>
+      <button id="lang-en" onclick="setLang('en')">English</button>
+    </span>
+  </div>
+
+  <!-- ===== Header bar ===== -->
+  <header class="gov">
+    <div class="emblem">🌾</div>
+    <div class="titles">
+      <h1 id="portal-title"></h1>
+      <p id="portal-subtitle"></p>
+    </div>
+    <nav class="top">
+      <button onclick="showHome()">🏠 <span id="nav-home"></span></button>
+    </nav>
+  </header>
+
+  <!-- ===== Hero header with Tamil Nadu farmer imagery ===== -->
+  <section class="hero" id="hero">
+    <div class="hero-inner">
+      <span class="badge" id="hero-badge"></span>
+      <h2 id="hero-title"></h2>
+      <p id="hero-text"></p>
+      <!-- small farmer photo row inside the header -->
+      <div class="hero-photos" id="hero-photos"></div>
+    </div>
+  </section>
+
+  <!-- ===== HOME view: scheme cards ===== -->
+  <div id="home-view">
+    <div class="wrap">
+      <h2 class="section-head" id="browse-head"></h2>
+      <p class="section-sub" id="browse-hint"></p>
+      <div class="grid" id="cards"></div>
+    </div>
+  </div>
+
+  <!-- ===== DETAIL view: left search+nav, right content ===== -->
+  <div id="detail-view" class="hidden">
+    <div class="wrap">
+      <div class="detail">
+        <aside class="side">
+          <input class="search" id="nav-search" oninput="renderNav()">
+          <div class="navttl" id="nav-title"></div>
+          <ul class="navlist" id="navlist"></ul>
+        </aside>
+        <main class="content" id="content"></main>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Floating chat (present on EVERY view) ===== -->
+  <button class="fab" id="fab" onclick="toggleChat()" title="">💬</button>
+  <div class="chat" id="chat">
+    <div class="chat-head">
+      <span class="dot"></span>
+      <b id="chat-title"></b>
+      <button class="clear" id="chat-clear" onclick="clearChat()"></button>
+      <button class="x" onclick="toggleChat()">×</button>
+    </div>
+    <div class="chat-log" id="chat-log"></div>
+    <div class="chat-foot">
+      <input id="chat-input" onkeydown="if(event.key==='Enter')sendChat()">
+      <button onclick="sendChat()">➤</button>
+    </div>
+  </div>
+
+  <!-- ===== Footer ===== -->
+  <footer class="gov-foot" id="footer"></footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+"""
+translations.py  -  All the text labels used on the website, in Tamil and English.
+
+To read a label you write:  T[lang]["home"]
+where lang is "ta" (Tamil) or "en" (English).
+
+Keeping labels here (instead of scattered across the app) makes it easy to
+edit wording or add a new language later.
+"""
+
+T = {
+    "ta": {
+        "govt_strip": "தமிழ்நாடு அரசு",
+        "portal_title": "விவசாயிகள் நல திட்டங்கள் இணையதளம்",
+        "portal_subtitle": "வேளாண்மைத் துறை — தமிழ்நாடு",
+        "nav_home": "முகப்பு",
+        "nav_schemes": "நல திட்டங்கள்",
+        "nav_chat": "உதவி அரட்டை",
+        "lang_label": "மொழி",
+        "hero_title": "உங்கள் வேளாண் நல திட்டங்களை அறியுங்கள்",
+        "hero_badge": "தமிழ்நாடு விவசாயிகளுக்காக",
+        "all_schemes": "அனைத்து திட்டங்கள்",
+        "hero_text": "தமிழ்நாடு அரசின் வேளாண்மைத் துறை வழங்கும் மானியங்கள், ஊக்கத்தொகைகள் மற்றும் உதவித் திட்டங்களை இங்கே தேடி அறியலாம். ஒரு திட்டத்தைத் தேர்ந்தெடுத்து அதன் நன்மைகள், தகுதி மற்றும் தொடர்பு கொள்ள வேண்டிய அலுவலர் விவரங்களைப் பார்க்கவும்.",
+        "browse_heading": "திட்டங்களை வகைவாரியாகப் பார்க்கவும்",
+        "browse_hint": "ஒரு வகையைத் திறந்து, திட்டத்தின் பெயரைச் சொடுக்கி முழு விவரங்களைக் காணவும்.",
+        "search_placeholder": "திட்டத்தைத் தேடுங்கள் (எ.கா. பருத்தி, நெல், சொட்டு நீர்ப்பாசனம்)",
+        "benefits": "நன்மைகள்",
+        "eligibility": "தகுதி மற்றும் நிபந்தனைகள்",
+        "officers": "தொடர்பு கொள்ள வேண்டிய அலுவலர்",
+        "districts": "பொருந்தும் மாவட்டங்கள்",
+        "category": "வகை",
+        "back": "← திட்டப் பட்டியலுக்குத் திரும்பு",
+        "view_details": "விவரங்களைக் காண்க",
+        "chat_heading": "திட்டங்கள் குறித்து கேளுங்கள்",
+        "chat_hint": "எந்தத் திட்டம் குறித்தும் தமிழில் அல்லது ஆங்கிலத்தில் கேள்வி கேளுங்கள்.",
+        "chat_input": "உங்கள் கேள்வியை இங்கே தட்டச்சு செய்யவும்...",
+        "chat_thinking": "பதிலைத் தயாரிக்கிறது...",
+        "chat_sources": "தொடர்புடைய திட்டங்கள்",
+        "chat_welcome": "வணக்கம்! நான் உங்கள் வேளாண் நல திட்ட உதவியாளர். எந்தத் திட்டம் குறித்தும் கேளுங்கள்.",
+        "chat_clear": "🗑️ அழி",
+        "footer": "© தமிழ்நாடு அரசு — வேளாண்மைத் துறை. இத்தகவல்கள் பொது விழிப்புணர்வுக்காக மட்டுமே. உறுதிசெய்ய உள்ளூர் வேளாண் அலுவலரைத் தொடர்பு கொள்ளவும்.",
+        "no_results": "பொருந்தும் திட்டம் எதுவும் இல்லை.",
+        "connect_error": "சேவையகத்துடன் இணைக்க முடியவில்லை. FastAPI backend இயங்குகிறதா எனச் சரிபார்க்கவும்.",
+    },
+    "en": {
+        "govt_strip": "Government of Tamil Nadu",
+        "portal_title": "Farmers' Welfare Schemes Portal",
+        "portal_subtitle": "Department of Agriculture — Tamil Nadu",
+        "nav_home": "Home",
+        "nav_schemes": "Welfare Schemes",
+        "nav_chat": "Help Chat",
+        "lang_label": "Language",
+        "hero_title": "Know your agriculture welfare schemes",
+        "hero_badge": "FOR THE FARMERS OF TAMIL NADU",
+        "all_schemes": "All schemes",
+        "hero_text": "Search and learn about the subsidies, incentives and support schemes offered by the Department of Agriculture, Government of Tamil Nadu. Choose a scheme to see its benefits, eligibility and the officer to contact.",
+        "browse_heading": "Browse schemes by category",
+        "browse_hint": "Open a category and click a scheme name to see full details.",
+        "search_placeholder": "Search a scheme (e.g. cotton, paddy, drip irrigation)",
+        "benefits": "Benefits",
+        "eligibility": "Eligibility & Conditions",
+        "officers": "Officer to be Contacted",
+        "districts": "Applicable Districts",
+        "category": "Category",
+        "back": "← Back to scheme list",
+        "view_details": "View details",
+        "chat_heading": "Ask about the schemes",
+        "chat_hint": "Ask any question about any scheme, in Tamil or English.",
+        "chat_input": "Type your question here...",
+        "chat_thinking": "Preparing the answer...",
+        "chat_sources": "Related schemes",
+        "chat_welcome": "Hello! I am your agriculture welfare scheme assistant. Ask me about any scheme.",
+        "chat_clear": "🗑️ Clear",
+        "footer": "© Government of Tamil Nadu — Department of Agriculture. This information is for general awareness only. Please contact your local Agricultural Officer to confirm details.",
+        "no_results": "No matching scheme found.",
+        "connect_error": "Could not connect to the server. Please check that the FastAPI backend is running.",
+    },
+}

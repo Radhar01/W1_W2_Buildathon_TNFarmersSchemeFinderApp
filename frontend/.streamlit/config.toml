@@ -1,0 +1,12 @@
+# Streamlit theme for the TN Agriculture portal.
+# primaryColor drives the "highlighted" (type="primary") buttons used for the
+# currently-selected scheme in the left navigation.
+[theme]
+primaryColor = "#14532d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f3ea"
+textColor = "#25291f"
+font = "sans serif"
+
+[server]
+headless = true

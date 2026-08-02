@@ -1,0 +1,688 @@
+[
+  {
+    "id": "seed-multiplication",
+    "category_en": "Quality Seed Production",
+    "category_ta": "தரமான விதை உற்பத்தி",
+    "title_en": "Seed Multiplication Scheme (Paddy, Millets, Pulses, Oilseeds & Cotton)",
+    "title_ta": "விதைப் பெருக்கத் திட்டம் (நெல், சிறுதானியம், பயறு, எண்ணெய் வித்து, பருத்தி)",
+    "summary_en": "Incentives are given to farmers who produce and supply quality certified/foundation class seeds to the Agriculture Department on a contract basis.",
+    "summary_ta": "ஒப்பந்த அடிப்படையில் வேளாண்மைத் துறைக்குத் தரமான சான்றளிக்கப்பட்ட / அடிப்படை வகை விதைகளை உற்பத்தி செய்து வழங்கும் விவசாயிகளுக்கு ஊக்கத்தொகை வழங்கப்படுகிறது.",
+    "benefits_en": [
+      "Paddy & Millets: Rs.2 per kg premium for Certified class seed.",
+      "Pulses: Rs.2 per kg for Foundation class, Rs.1 per kg for Certified class.",
+      "Groundnut: Rs.3 per kg (Foundation), Rs.2 per kg (Certified), Re.1 per kg (Truthfully Labelled).",
+      "Gingelly & Sunflower: 7.5% above local market rate (Foundation) and 5% above (Certified).",
+      "Farmers are initially paid 90% of the Minimum Support Price on delivery to the Seed Processing Unit; the balance is paid after the lot passes certification."
+    ],
+    "benefits_ta": [
+      "நெல் & சிறுதானியம்: சான்றளிக்கப்பட்ட விதைக்கு கிலோவுக்கு ரூ.2 ஊக்கத்தொகை.",
+      "பயறு வகைகள்: அடிப்படை வகைக்கு கிலோ ரூ.2, சான்றளிக்கப்பட்ட வகைக்கு கிலோ ரூ.1.",
+      "நிலக்கடலை: அடிப்படை ரூ.3, சான்றளிக்கப்பட்டது ரூ.2, உண்மையாக முத்திரையிடப்பட்டது ரூ.1 (கிலோவுக்கு).",
+      "எள் & சூரியகாந்தி: உள்ளூர் சந்தை விலையை விட அடிப்படை வகைக்கு 7.5% கூடுதல், சான்று வகைக்கு 5% கூடுதல்.",
+      "விதை பதப்படுத்தும் நிலையத்தில் ஒப்படைத்தவுடன் குறைந்தபட்ச ஆதரவு விலையில் 90% முதலில் வழங்கப்படும்; சான்று பெற்றபின் மீதி தொகை வழங்கப்படும்."
+    ],
+    "eligibility_en": [
+      "All farmers who produce and supply seeds to the Department on a contract basis and register their seed farms.",
+      "Separate allocation for SC/ST seed growers.",
+      "Preference to farm women groups and Farmers Interest Groups (FIGs)."
+    ],
+    "eligibility_ta": [
+      "ஒப்பந்த அடிப்படையில் விதை உற்பத்தி செய்து துறைக்கு வழங்கி, தங்கள் விதைப் பண்ணைகளைப் பதிவு செய்யும் அனைத்து விவசாயிகளும்.",
+      "பட்டியல் சாதி / பழங்குடியினர் விதை வளர்ப்பாளர்களுக்குத் தனி ஒதுக்கீடு.",
+      "பண்ணை மகளிர் குழுக்கள் மற்றும் விவசாயிகள் ஆர்வக் குழுக்களுக்கு (FIG) முன்னுரிமை."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Assistant Seed Officer / Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "உதவி விதை அலுவலர் / துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "Available across the state through Agricultural Extension Centres."
+  },
+  {
+    "id": "paddy-cereals",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Cereals Development Programme - Paddy",
+    "title_ta": "தானிய மேம்பாட்டுத் திட்டம் - நெல்",
+    "summary_en": "Support for quality paddy seed, System of Rice Intensification (SRI) demonstrations and Integrated Pest Management training.",
+    "summary_ta": "தரமான நெல் விதை, நெல் தீவிர சாகுபடி முறை (SRI) செய்முறை விளக்கம், ஒருங்கிணைந்த பூச்சி மேலாண்மைப் பயிற்சி ஆகியவற்றுக்கு உதவி.",
+    "benefits_en": [
+      "Subsidy of Rs.5 per kg on paddy seed (or 50% of cost, whichever is less) at Agricultural Extension Centres.",
+      "SRI demonstration: subsidy of Rs.3000 per demonstration of 0.4 ha (improved seed, Conoweeder, Marker, bio-fertilizers, micro-nutrients).",
+      "Integrated Pest Management training (Farmers Field School): lump sum Rs.17,000 for 30 farmers including honorarium, materials and field days."
+    ],
+    "benefits_ta": [
+      "வேளாண் விரிவாக்க மையங்களில் நெல் விதைக்கு கிலோ ரூ.5 மானியம் (அல்லது விலையில் 50%, எது குறைவோ அது).",
+      "SRI செய்முறை விளக்கம்: 0.4 ஹெக்டேருக்கு ரூ.3000 மானியம் (மேம்படுத்தப்பட்ட விதை, கோனோ களையெடுப்பான், மார்க்கர், உயிர் உரங்கள், நுண்ணூட்டம்).",
+      "ஒருங்கிணைந்த பூச்சி மேலாண்மைப் பயிற்சி (விவசாயி வயல் பள்ளி): 30 விவசாயிகளுக்கு மொத்தம் ரூ.17,000."
+    ],
+    "eligibility_en": [
+      "All farmers are eligible; preference to Small/Marginal women farmers.",
+      "30% flow assured to SC/ST farmers.",
+      "Operates in all districts except Chennai, The Nilgiris, and the NFSM rice districts (Nagapattinam, Tiruvarur, Sivagangai, Ramanathapuram, Pudukkottai)."
+    ],
+    "eligibility_ta": [
+      "அனைத்து விவசாயிகளும் தகுதியுடையவர்கள்; சிறு/குறு மகளிர் விவசாயிகளுக்கு முன்னுரிமை.",
+      "பட்டியல் சாதி / பழங்குடியினருக்கு 30% ஒதுக்கீடு.",
+      "சென்னை, நீலகிரி மற்றும் NFSM நெல் மாவட்டங்கள் தவிர அனைத்து மாவட்டங்களிலும் செயல்படுகிறது."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts except Chennai, The Nilgiris and NFSM rice districts."
+  },
+  {
+    "id": "soil-health-card",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Soil Health Card & Balanced Use of Fertilisers",
+    "title_ta": "மண் நல அட்டை மற்றும் சமச்சீர் உர பயன்பாடு",
+    "summary_en": "Farmers who submit soil samples for testing receive a Soil Health Card advising balanced fertiliser use.",
+    "summary_ta": "மண் மாதிரிகளை பரிசோதனைக்கு வழங்கும் விவசாயிகளுக்கு சமச்சீர் உர பயன்பாட்டை அறிவுறுத்தும் மண் நல அட்டை வழங்கப்படுகிறது.",
+    "benefits_en": [
+      "Soil Health Card issued to all farmers who submit a soil sample.",
+      "Testing fee of Rs.5 each for macro-nutrient and micro-nutrient samples."
+    ],
+    "benefits_ta": [
+      "மண் மாதிரி வழங்கும் அனைத்து விவசாயிகளுக்கும் மண் நல அட்டை வழங்கப்படும்.",
+      "பெரு ஊட்டச்சத்து மற்றும் நுண் ஊட்டச்சத்து மாதிரிகளுக்கு தலா ரூ.5 பரிசோதனைக் கட்டணம்."
+    ],
+    "eligibility_en": ["Farmers of all districts, limited to the analytical capacity of the soil testing laboratories."],
+    "eligibility_ta": ["அனைத்து மாவட்ட விவசாயிகளும், மண் பரிசோதனை ஆய்வகங்களின் திறனுக்கு உட்பட்டு."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts."
+  },
+  {
+    "id": "fig-tanwabe",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Farmers Interest Groups (FIG) & TANWABE",
+    "title_ta": "விவசாயிகள் ஆர்வக் குழுக்கள் (FIG) மற்றும் TANWABE",
+    "summary_en": "Support for forming Farmers Interest Groups and promoting micro-enterprises among farm women (TANWABE).",
+    "summary_ta": "விவசாயிகள் ஆர்வக் குழுக்கள் அமைத்தல் மற்றும் பண்ணை மகளிரிடையே நுண் தொழில் முனைவை ஊக்குவித்தல் (TANWABE).",
+    "benefits_en": [
+      "FIG formation (15 farmers/group): Rs.5000 per group for office automation, technical bulletins and library.",
+      "FIG skill training: Rs.4000 per group; ID cards Rs.400 per group.",
+      "TANWABE farm women groups (15 women): Rs.10,000 per group (or 50% of investment) as back-ended subsidy for new enterprise activity.",
+      "One-day Entrepreneur Development training: Rs.750 per group."
+    ],
+    "benefits_ta": [
+      "FIG அமைத்தல் (குழுவுக்கு 15 விவசாயிகள்): அலுவலக தானியங்கி, தொழில்நுட்ப வெளியீடு, நூலகம் ஆகியவற்றுக்கு குழுவுக்கு ரூ.5000.",
+      "FIG திறன் பயிற்சி: குழுவுக்கு ரூ.4000; அடையாள அட்டை குழுவுக்கு ரூ.400.",
+      "TANWABE பண்ணை மகளிர் குழுக்கள் (15 பேர்): புதிய தொழில் நடவடிக்கைக்கு குழுவுக்கு ரூ.10,000 (அல்லது முதலீட்டில் 50%) பின் இணைப்பு மானியம்.",
+      "ஒரு நாள் தொழில்முனைவோர் மேம்பாட்டுப் பயிற்சி: குழுவுக்கு ரூ.750."
+    ],
+    "eligibility_en": ["All groups are entitled to the benefit subject to the target."],
+    "eligibility_ta": ["இலக்குக்கு உட்பட்டு அனைத்து குழுக்களும் பயனைப் பெறத் தகுதியுடையவை."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts subject to target."
+  },
+  {
+    "id": "maize-isopom",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Maize (ISOPOM)",
+    "title_ta": "மக்காச்சோளம் (ISOPOM)",
+    "summary_en": "Support for maize seed production, certified seed distribution, demonstrations, pest management and irrigation pipes under the ISOPOM scheme.",
+    "summary_ta": "ISOPOM திட்டத்தின் கீழ் மக்காச்சோள விதை உற்பத்தி, சான்று விதை விநியோகம், செய்முறை விளக்கம், பூச்சி மேலாண்மை மற்றும் நீர்ப்பாசனக் குழாய்களுக்கு உதவி.",
+    "benefits_en": [
+      "Certified seed production: Rs.1000 per quintal.",
+      "Certified seed distribution: 50% of cost, up to Rs.1200 per quintal.",
+      "Block demonstration: 50% subsidy up to Rs.4000 per 5 ha demonstration.",
+      "Free minikits; IPM demonstration Rs.22,680 per 10 ha.",
+      "Farmer training: Rs.300 per farmer for 2 days (batch of 50).",
+      "Water-carrying pipes (up to 800m, PVC/HDPE): 50% cost or Rs.15,000."
+    ],
+    "benefits_ta": [
+      "சான்று விதை உற்பத்தி: குவிண்டாலுக்கு ரூ.1000.",
+      "சான்று விதை விநியோகம்: விலையில் 50%, குவிண்டாலுக்கு ரூ.1200 வரை.",
+      "தொகுதி செய்முறை விளக்கம்: 5 ஹெக்டேருக்கு 50% மானியம், ரூ.4000 வரை.",
+      "இலவச மினிகிட்; ஒருங்கிணைந்த பூச்சி மேலாண்மை செய்முறை 10 ஹெக்டேருக்கு ரூ.22,680.",
+      "விவசாயி பயிற்சி: 2 நாட்களுக்கு ஒரு விவசாயிக்கு ரூ.300 (50 பேர் குழு).",
+      "நீர் கொண்டு செல்லும் குழாய் (800மீ வரை): 50% விலை அல்லது ரூ.15,000."
+    ],
+    "eligibility_en": [
+      "All maize-growing farmers in Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi.",
+      "Preference to Small/Marginal farmers; 24% to SC/ST, 20% to women farmers/groups."
+    ],
+    "eligibility_ta": [
+      "கோயம்புத்தூர், திண்டுக்கல், ஈரோடு, தர்மபுரி, கிருஷ்ணகிரி, நாமக்கல், பெரம்பலூர், விருதுநகர், தேனி, விழுப்புரம், வேலூர், சேலம், புதுக்கோட்டை, மதுரை, சிவகங்கை, திருச்சி, திருநெல்வேலி, தூத்துக்குடி ஆகிய மாவட்டங்களில் மக்காச்சோளம் பயிரிடும் அனைத்து விவசாயிகளும்.",
+      "சிறு/குறு விவசாயிகளுக்கு முன்னுரிமை; பட்டியல் சாதி/பழங்குடியினருக்கு 24%, மகளிருக்கு 20%."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "18 specified maize-growing districts."
+  },
+  {
+    "id": "pulses-isopom",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Pulses (ISOPOM)",
+    "title_ta": "பயறு வகைகள் (ISOPOM)",
+    "summary_en": "Support for pulses seed production and distribution, gypsum, bio-pesticides, demonstrations, rhizobium, equipment and DAP/micro-nutrient sprays.",
+    "summary_ta": "பயறு விதை உற்பத்தி மற்றும் விநியோகம், ஜிப்சம், உயிர் பூச்சிக்கொல்லி, செய்முறை விளக்கம், ரைசோபியம், கருவிகள் மற்றும் DAP/நுண்ணூட்ட தெளிப்பு உதவி.",
+    "benefits_en": [
+      "Foundation & Certified seed production: Rs.1000 per quintal each.",
+      "Certified seed distribution: 50% of cost or Rs.1200 per quintal.",
+      "Gypsum: 50% of cost plus transport, up to Rs.750 per ha.",
+      "Bio-pesticides up to Rs.250/ha; Rhizobium 50% or Rs.100/ha.",
+      "Block demonstration (5 ha): 50% of inputs or Rs.2000; IPM demonstration Rs.12,315 per 10 ha.",
+      "Manually operated plant protection equipment: 50% or Rs.800.",
+      "DAP spraying (2 rounds): 50% or Rs.100/ha; Micro-nutrient spray: 50% or Rs.500/ha.",
+      "Water-carrying pipes (up to 800m): 50% or Rs.15,000."
+    ],
+    "benefits_ta": [
+      "அடிப்படை & சான்று விதை உற்பத்தி: தலா குவிண்டாலுக்கு ரூ.1000.",
+      "சான்று விதை விநியோகம்: 50% விலை அல்லது குவிண்டாலுக்கு ரூ.1200.",
+      "ஜிப்சம்: 50% விலை + போக்குவரத்து, ஹெக்டேருக்கு ரூ.750 வரை.",
+      "உயிர் பூச்சிக்கொல்லி ஹெக்டேருக்கு ரூ.250 வரை; ரைசோபியம் 50% அல்லது ரூ.100/ஹெக்டேர்.",
+      "தொகுதி செய்முறை (5 ஹெக்டேர்): 50% அல்லது ரூ.2000; IPM செய்முறை 10 ஹெக்டேருக்கு ரூ.12,315.",
+      "கை இயக்கு தாவரப் பாதுகாப்பு கருவி: 50% அல்லது ரூ.800.",
+      "DAP தெளிப்பு (2 சுற்று): 50% அல்லது ரூ.100/ஹெக்டேர்; நுண்ணூட்ட தெளிப்பு: 50% அல்லது ரூ.500/ஹெக்டேர்.",
+      "நீர் குழாய் (800மீ வரை): 50% அல்லது ரூ.15,000."
+    ],
+    "eligibility_en": [
+      "Farmers in all districts except Chennai and The Nilgiris (and specified NFSM pulses districts for certain components).",
+      "SC/ST 24%, Farm Women 20%."
+    ],
+    "eligibility_ta": [
+      "சென்னை மற்றும் நீலகிரி தவிர அனைத்து மாவட்ட விவசாயிகளும் (சில கூறுகளுக்கு குறிப்பிட்ட NFSM பயறு மாவட்டங்கள் விதிவிலக்கு).",
+      "பட்டியல் சாதி/பழங்குடியினர் 24%, பண்ணை மகளிர் 20%."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts except Chennai and The Nilgiris."
+  },
+  {
+    "id": "oilseeds-isopom",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Oilseeds (ISOPOM)",
+    "title_ta": "எண்ணெய் வித்துக்கள் (ISOPOM)",
+    "summary_en": "Support for oilseed seed production, certified seed, block demonstrations, rhizobium, gypsum, equipment, training and combined nutrient sprays.",
+    "summary_ta": "எண்ணெய் வித்து விதை உற்பத்தி, சான்று விதை, தொகுதி செய்முறை, ரைசோபியம், ஜிப்சம், கருவிகள், பயிற்சி மற்றும் கூட்டு ஊட்டச்சத்து தெளிப்புக்கு உதவி.",
+    "benefits_en": [
+      "Foundation & Certified seed production: Rs.1000 per quintal.",
+      "Certified seed distribution: 50% or Rs.1200 per quintal.",
+      "Block demonstration (5 ha): 50% subsidy - Groundnut Rs.4000, Gingelly Rs.1500, Sunflower Rs.2500.",
+      "Rhizobium 50% or Rs.100; Gypsum 50% up to Rs.750/ha; Bio-pesticides Rs.250/ha; Weedicides Rs.500/ha.",
+      "Plant protection equipment: manual 50% or Rs.800, power 50% or Rs.2000.",
+      "Training: Rs.15,000 per batch of 50 farmers; combined nutrient spray for groundnut Rs.200/ha.",
+      "Water-carrying pipes (up to 800m): 50% or Rs.15,000."
+    ],
+    "benefits_ta": [
+      "அடிப்படை & சான்று விதை உற்பத்தி: குவிண்டாலுக்கு ரூ.1000.",
+      "சான்று விதை விநியோகம்: 50% அல்லது குவிண்டாலுக்கு ரூ.1200.",
+      "தொகுதி செய்முறை (5 ஹெக்டேர்): 50% மானியம் - நிலக்கடலை ரூ.4000, எள் ரூ.1500, சூரியகாந்தி ரூ.2500.",
+      "ரைசோபியம் 50% அல்லது ரூ.100; ஜிப்சம் 50% ஹெக்டேருக்கு ரூ.750 வரை; உயிர் பூச்சிக்கொல்லி ரூ.250/ஹெக்டேர்; களைக்கொல்லி ரூ.500/ஹெக்டேர்.",
+      "தாவரப் பாதுகாப்பு கருவி: கை 50% அல்லது ரூ.800, மின் 50% அல்லது ரூ.2000.",
+      "பயிற்சி: 50 விவசாயிகளுக்கு ரூ.15,000; நிலக்கடலைக்கு கூட்டு ஊட்டச்சத்து தெளிப்பு ரூ.200/ஹெக்டேர்.",
+      "நீர் குழாய் (800மீ வரை): 50% அல்லது ரூ.15,000."
+    ],
+    "eligibility_en": [
+      "All oilseed-growing farmers in all districts except Kanyakumari, Chennai and The Nilgiris.",
+      "Preference to Small/Marginal farmers; 24% to SC/ST, 20% to women farmers/groups."
+    ],
+    "eligibility_ta": [
+      "கன்னியாகுமரி, சென்னை, நீலகிரி தவிர அனைத்து மாவட்டங்களிலும் எண்ணெய் வித்து பயிரிடும் அனைத்து விவசாயிகளும்.",
+      "சிறு/குறு விவசாயிகளுக்கு முன்னுரிமை; பட்டியல் சாதி/பழங்குடியினருக்கு 24%, மகளிருக்கு 20%."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts except Kanyakumari, Chennai and The Nilgiris."
+  },
+  {
+    "id": "oilpalm-isopom",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Oilpalm (ISOPOM)",
+    "title_ta": "எண்ணெய் பனை (ISOPOM)",
+    "summary_en": "Area expansion, planting material, multi-year maintenance, training, rodent protection and drip irrigation support for oilpalm cultivation.",
+    "summary_ta": "எண்ணெய் பனை சாகுபடிக்கு பரப்பு விரிவாக்கம், நடவுப் பொருள், பல ஆண்டு பராமரிப்பு, பயிற்சி, எலி பாதுகாப்பு மற்றும் சொட்டு நீர்ப்பாசன உதவி.",
+    "benefits_en": [
+      "Area expansion: Rs.7000 per ha for ploughing and cultivation.",
+      "Planting material: Rs.4290 per ha (143 seedlings/ha) as second instalment.",
+      "Maintenance: Rs.2450 (2nd year), Rs.2800 (3rd year), Rs.3250 (4th year) per ha.",
+      "Training: Rs.15,000 per batch of 50 farmers for 2 days.",
+      "Wire mesh for root protection against rats: Rs.20 per seedling (Rs.2860/ha).",
+      "Drip irrigation: Rs.9,300/ha for SF/MF/SC/ST; Rs.6,500/ha for other farmers."
+    ],
+    "benefits_ta": [
+      "பரப்பு விரிவாக்கம்: உழவு மற்றும் சாகுபடிக்கு ஹெக்டேருக்கு ரூ.7000.",
+      "நடவுப் பொருள்: இரண்டாம் தவணையாக ஹெக்டேருக்கு ரூ.4290 (143 நாற்று/ஹெக்டேர்).",
+      "பராமரிப்பு: ஹெக்டேருக்கு ரூ.2450 (2ஆம் ஆண்டு), ரூ.2800 (3ஆம் ஆண்டு), ரூ.3250 (4ஆம் ஆண்டு).",
+      "பயிற்சி: 50 விவசாயிகளுக்கு 2 நாட்களுக்கு ரூ.15,000.",
+      "எலியிடமிருந்து வேர் பாதுகாப்பு கம்பி வலை: நாற்றுக்கு ரூ.20 (ஹெக்டேருக்கு ரூ.2860).",
+      "சொட்டு நீர்ப்பாசனம்: சிறு/குறு/பட்டியல் சாதி/பழங்குடி ஹெக்டேருக்கு ரூ.9,300; பிற விவசாயிகள் ரூ.6,500."
+    ],
+    "eligibility_en": ["Farmers cultivating oilpalm in Nagapattinam, Thiruvarur, Thanjavur, Trichy, Karur, Cuddalore, Villupuram, Perambalur, Vellore, Tirunelveli, Theni and Thoothukudi."],
+    "eligibility_ta": ["நாகப்பட்டினம், திருவாரூர், தஞ்சாவூர், திருச்சி, கரூர், கடலூர், விழுப்புரம், பெரம்பலூர், வேலூர், திருநெல்வேலி, தேனி, தூத்துக்குடி ஆகிய மாவட்டங்களில் எண்ணெய் பனை பயிரிடும் விவசாயிகள்."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "12 specified oilpalm districts."
+  },
+  {
+    "id": "cotton-icdp",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Cotton - Intensive Cotton Development Programme",
+    "title_ta": "பருத்தி - தீவிர பருத்தி மேம்பாட்டுத் திட்டம்",
+    "summary_en": "Support for cotton seed production and distribution, pheromone traps, bio-agents, equipment, Farmers Field Schools, micro-nutrients and inter-cropping.",
+    "summary_ta": "பருத்தி விதை உற்பத்தி மற்றும் விநியோகம், ஃபெரோமோன் பொறி, உயிர் காரணிகள், கருவிகள், விவசாயி வயல் பள்ளிகள், நுண்ணூட்டம் மற்றும் இடைப்பயிர்க்கு உதவி.",
+    "benefits_en": [
+      "Foundation seed production: 50% or Rs.5000 per quintal; Certified seed 25% or Rs.1500 per quintal.",
+      "Certified seed distribution: 25% (varieties) / 50% (hybrids & ELS) up to Rs.2000 per quintal.",
+      "Pheromone traps & lures: 50% up to Rs.300/ha; Bio-pesticides/agents up to Rs.900/ha.",
+      "Plant protection equipment: hand 50% up to Rs.800, power 50% up to Rs.2000.",
+      "Farmers Field School: Rs.17,000 per FFS of 30 farmers.",
+      "Seed treatment chemicals 50% or Rs.40/kg; bio-fertiliser 25% at Rs.25/ha; micro-nutrient mixture 25% up to Rs.120/ha.",
+      "Inter-cropping with pulses: 25% up to Rs.40/ha; farmer training Rs.5000 per 50 farmers."
+    ],
+    "benefits_ta": [
+      "அடிப்படை விதை உற்பத்தி: 50% அல்லது குவிண்டாலுக்கு ரூ.5000; சான்று விதை 25% அல்லது ரூ.1500.",
+      "சான்று விதை விநியோகம்: 25% (ரகங்கள்) / 50% (கலப்பினம் & ELS) குவிண்டாலுக்கு ரூ.2000 வரை.",
+      "ஃபெரோமோன் பொறி: 50% ஹெக்டேருக்கு ரூ.300 வரை; உயிர் பூச்சிக்கொல்லி ரூ.900/ஹெக்டேர் வரை.",
+      "தாவரப் பாதுகாப்பு கருவி: கை 50% ரூ.800 வரை, மின் 50% ரூ.2000 வரை.",
+      "விவசாயி வயல் பள்ளி: 30 விவசாயிகளுக்கு ரூ.17,000.",
+      "விதை சிகிச்சை வேதிப்பொருள் 50% அல்லது ரூ.40/கிலோ; உயிர் உரம் 25% ரூ.25/ஹெக்டேர்; நுண்ணூட்டம் 25% ரூ.120/ஹெக்டேர் வரை.",
+      "பயறுடன் இடைப்பயிர்: 25% ரூ.40/ஹெக்டேர் வரை; பயிற்சி 50 விவசாயிகளுக்கு ரூ.5000."
+    ],
+    "eligibility_en": [
+      "All cotton-growing farmers except in Kanyakumari, Kancheepuram, Thiruvallur, Chennai and The Nilgiris.",
+      "Also eligible for FIGs, TANWABE. 24% to SC/ST (16% SC, 8% ST), 30% to women farmers.",
+      "Seed production subsidy for farmers who register seed farms and supply seed."
+    ],
+    "eligibility_ta": [
+      "கன்னியாகுமரி, காஞ்சிபுரம், திருவள்ளூர், சென்னை, நீலகிரி தவிர பருத்தி பயிரிடும் அனைத்து விவசாயிகளும்.",
+      "FIG, TANWABE-க்கும் தகுதி. பட்டியல் சாதி/பழங்குடியினர் 24% (16% SC, 8% ST), மகளிர் 30%.",
+      "விதைப் பண்ணைகளைப் பதிவு செய்து விதை வழங்கும் விவசாயிகளுக்கு விதை உற்பத்தி மானியம்."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts except Kanyakumari, Kancheepuram, Thiruvallur, Chennai and The Nilgiris."
+  },
+  {
+    "id": "coconut",
+    "category_en": "Increasing Crop Productivity",
+    "category_ta": "பயிர் உற்பத்தியை அதிகரித்தல்",
+    "title_en": "Coconut - Seedlings & Integrated Farming",
+    "title_ta": "தென்னை - நாற்று மற்றும் ஒருங்கிணைந்த சாகுபடி",
+    "summary_en": "Supply of subsidised coconut seedlings and demonstration plots for integrated farming to improve productivity.",
+    "summary_ta": "மானிய விலையில் தென்னை நாற்று வழங்கல் மற்றும் உற்பத்தித் திறனை மேம்படுத்த ஒருங்கிணைந்த சாகுபடி செய்முறை நிலங்கள்.",
+    "benefits_en": [
+      "Tall coconut seedlings at Rs.15 each; Tall x Dwarf at Rs.25 each; Dwarf x Tall at Rs.75 each.",
+      "Integrated farming demonstration plots: Rs.35,000 in 2 instalments (Rs.17,500 per ha/year)."
+    ],
+    "benefits_ta": [
+      "உயரம் தென்னை நாற்று தலா ரூ.15; உயரம் x குள்ள தலா ரூ.25; குள்ள x உயரம் தலா ரூ.75.",
+      "ஒருங்கிணைந்த சாகுபடி செய்முறை நிலம்: 2 தவணைகளில் ரூ.35,000 (ஆண்டுக்கு ஹெக்டேருக்கு ரூ.17,500)."
+    ],
+    "eligibility_en": ["Coconut seedlings supplied to all farmers except The Nilgiris; integrated farming in all districts except Chennai & The Nilgiris."],
+    "eligibility_ta": ["நீலகிரி தவிர அனைத்து விவசாயிகளுக்கும் தென்னை நாற்று; சென்னை & நீலகிரி தவிர அனைத்து மாவட்டங்களிலும் ஒருங்கிணைந்த சாகுபடி."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts except Chennai and The Nilgiris."
+  },
+  {
+    "id": "soil-health",
+    "category_en": "Improving Soil Health",
+    "category_ta": "மண் நலம் மேம்படுத்துதல்",
+    "title_en": "Soil Health - Green Manure, Micro-nutrients & Bio-fertilisers",
+    "title_ta": "மண் நலம் - பசுந்தாள் உரம், நுண்ணூட்டம் & உயிர் உரங்கள்",
+    "summary_en": "Distribution of green manure seeds, micro-nutrient mixtures, bio-fertilisers, blue green algae and vermicompost support to improve soil health.",
+    "summary_ta": "மண் நலத்தை மேம்படுத்த பசுந்தாள் உர விதைகள், நுண்ணூட்ட கலவைகள், உயிர் உரங்கள், நீல பச்சை பாசி மற்றும் மண்புழு உர உதவி.",
+    "benefits_en": [
+      "Green manure seeds: 25% subsidy on cost.",
+      "Micro-nutrient mixtures supplied at full cost (crop-specific rates).",
+      "Bio-fertilisers (Azospirillum, Rhizobium, Phosphobacteria): Rs.6 per 200g packet.",
+      "Blue Green Algae at Rs.2.75 per kg.",
+      "Vermicomposting demonstration Rs.1200 and Rs.50 per farmer training incentive.",
+      "Pleurotus minikit worth Rs.120 free of cost."
+    ],
+    "benefits_ta": [
+      "பசுந்தாள் உர விதை: விலையில் 25% மானியம்.",
+      "நுண்ணூட்ட கலவைகள் முழு விலையில் வழங்கப்படும் (பயிர் வாரியான விலை).",
+      "உயிர் உரங்கள் (அசோஸ்பைரில்லம், ரைசோபியம், பாஸ்போபாக்டீரியா): 200 கிராம் பாக்கெட் ரூ.6.",
+      "நீல பச்சை பாசி கிலோ ரூ.2.75.",
+      "மண்புழு உர செய்முறை ரூ.1200 மற்றும் விவசாயிக்கு ரூ.50 பயிற்சி ஊக்கம்.",
+      "ப்ளூரோட்டஸ் மினிகிட் ரூ.120 மதிப்பு இலவசம்."
+    ],
+    "eligibility_en": ["All farmers in the state (green manure, vermicompost and pleurotus exclude Chennai and The Nilgiris)."],
+    "eligibility_ta": ["மாநிலத்தின் அனைத்து விவசாயிகளும் (பசுந்தாள், மண்புழு உரம், ப்ளூரோட்டஸ் ஆகியவை சென்னை & நீலகிரி தவிர)."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts (with noted exceptions)."
+  },
+  {
+    "id": "saline-reclamation",
+    "category_en": "Improving Soil Health",
+    "category_ta": "மண் நலம் மேம்படுத்துதல்",
+    "title_en": "Reclamation of Saline & Alkaline Soils",
+    "title_ta": "உவர் மற்றும் கார நிலங்களை சீரமைத்தல்",
+    "summary_en": "Subsidy on gypsum and zinc sulphate and drainage funds for farmers whose lands are declared saline/alkaline affected.",
+    "summary_ta": "உவர்/கார பாதிப்புள்ளதாக அறிவிக்கப்பட்ட நிலங்களுக்கு ஜிப்சம், துத்தநாக சல்பேட் மானியம் மற்றும் வடிகால் நிதி.",
+    "benefits_en": [
+      "50% subsidy on the cost of gypsum and zinc sulphate.",
+      "Drainage subsidy up to Rs.1000 per acre."
+    ],
+    "benefits_ta": [
+      "ஜிப்சம் மற்றும் துத்தநாக சல்பேட் விலையில் 50% மானியம்.",
+      "வடிகால் வசதிக்கு ஏக்கருக்கு ரூ.1000 வரை மானியம்."
+    ],
+    "eligibility_en": ["Farmers whose lands are declared saline/alkaline affected by soil test in Nagapattinam, Thiruvarur, Kancheepuram, Thiruvallur, Vellore, Thiruvannamalai, Salem and Namakkal."],
+    "eligibility_ta": ["நாகப்பட்டினம், திருவாரூர், காஞ்சிபுரம், திருவள்ளூர், வேலூர், திருவண்ணாமலை, சேலம், நாமக்கல் ஆகிய மாவட்டங்களில் மண் பரிசோதனையில் உவர்/கார பாதிப்பு எனக் கண்டறியப்பட்ட நிலங்களை உடைய விவசாயிகள்."],
+    "officers_en": ["Joint Director of Agriculture (district)", "Assistant Director of Agriculture (Block)", "Agricultural Officer / Deputy Agricultural Officer"],
+    "officers_ta": ["இணை இயக்குநர், வேளாண்மை (மாவட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "வேளாண் அலுவலர் / துணை வேளாண் அலுவலர்"],
+    "districts_en": "8 specified districts."
+  },
+  {
+    "id": "crop-insurance",
+    "category_en": "Insurance & Risk Protection",
+    "category_ta": "காப்பீடு மற்றும் இடர் பாதுகாப்பு",
+    "title_en": "National Agricultural Insurance Scheme & WBCIS",
+    "title_ta": "தேசிய வேளாண் காப்பீட்டுத் திட்டம் & WBCIS",
+    "summary_en": "Premium subsidy on crop insurance for loanee and non-loanee farmers, and Weather Based Crop Insurance in selected districts.",
+    "summary_ta": "கடன் பெற்ற மற்றும் கடன் பெறாத விவசாயிகளுக்கு பயிர் காப்பீட்டு பிரீமியம் மானியம், மற்றும் தேர்ந்தெடுக்கப்பட்ட மாவட்டங்களில் வானிலை அடிப்படை பயிர் காப்பீடு.",
+    "benefits_en": [
+      "50% premium subsidy to loanee and non-loanee farmers including tenant farmers under NAIS.",
+      "Premium subsidy under Weather Based Crop Insurance Scheme (WBCIS)."
+    ],
+    "benefits_ta": [
+      "NAIS கீழ் குத்தகை விவசாயிகள் உட்பட கடன் பெற்ற/பெறாத விவசாயிகளுக்கு 50% பிரீமியம் மானியம்.",
+      "வானிலை அடிப்படை பயிர் காப்பீட்டுத் திட்டத்தின் (WBCIS) கீழ் பிரீமியம் மானியம்."
+    ],
+    "eligibility_en": [
+      "NAIS: all farmers of the state cultivating paddy, millets, pulses, oilseeds, sugarcane, cotton, cash crops and horticultural crops.",
+      "WBCIS: loanee & non-loanee farmers of Dharmapuri, Salem, Virudhunagar, Perambalur (Ariyalur); non-loanee farmers of Coimbatore, Villupuram and Dindigul."
+    ],
+    "eligibility_ta": [
+      "NAIS: நெல், சிறுதானியம், பயறு, எண்ணெய் வித்து, கரும்பு, பருத்தி, பணப்பயிர் மற்றும் தோட்டக்கலை பயிர் சாகுபடி செய்யும் மாநிலத்தின் அனைத்து விவசாயிகளும்.",
+      "WBCIS: தர்மபுரி, சேலம், விருதுநகர், பெரம்பலூர் (அரியலூர்) விவசாயிகள்; கோயம்புத்தூர், விழுப்புரம், திண்டுக்கல் கடன் பெறாத விவசாயிகள்."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "Statewide (NAIS); selected districts (WBCIS)."
+  },
+  {
+    "id": "plant-protection",
+    "category_en": "Plant Protection",
+    "category_ta": "தாவரப் பாதுகாப்பு",
+    "title_en": "Biological Control of Crop Pests",
+    "title_ta": "பயிர் பூச்சிகளின் உயிரியல் கட்டுப்பாடு",
+    "summary_en": "Supply of bio-agents and parasites to control pests in coconut, sugarcane and cotton.",
+    "summary_ta": "தென்னை, கரும்பு மற்றும் பருத்தியில் பூச்சிகளைக் கட்டுப்படுத்த உயிர் காரணிகள் மற்றும் ஒட்டுண்ணிகள் வழங்கல்.",
+    "benefits_en": [
+      "Green Muscardine fungus for Rhinoceros beetle in coconut: one tube per ha free.",
+      "Parasites for Black Headed Caterpillar in coconut: Rs.35 service charge.",
+      "Parasite for Early Shoot & Internode borer in sugarcane: Rs.40 per ha.",
+      "Nuclear Poly Hedrosis Virus for Prodenia in cotton: Rs.43 per ha."
+    ],
+    "benefits_ta": [
+      "தென்னையில் காண்டாமிருக வண்டுக்கு பச்சை மஸ்கார்டின் பூஞ்சை: ஹெக்டேருக்கு ஒரு குழாய் இலவசம்.",
+      "தென்னையில் கருந்தலைப் புழுவுக்கு ஒட்டுண்ணி: ரூ.35 சேவைக் கட்டணம்.",
+      "கரும்பில் தண்டு/கணு துளைப்பானுக்கு ஒட்டுண்ணி: ஹெக்டேருக்கு ரூ.40.",
+      "பருத்தியில் புரோடீனியாவுக்கு நியூக்ளியர் பாலிஹெட்ரோசிஸ் வைரஸ்: ஹெக்டேருக்கு ரூ.43."
+    ],
+    "eligibility_en": ["All farmers in the state except Chennai and The Nilgiris (sugarcane and cotton components limited to specified districts)."],
+    "eligibility_ta": ["சென்னை & நீலகிரி தவிர மாநிலத்தின் அனைத்து விவசாயிகளும் (கரும்பு & பருத்தி கூறுகள் குறிப்பிட்ட மாவட்டங்களுக்கு மட்டும்)."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "Statewide with component-specific exceptions."
+  },
+  {
+    "id": "ftc-training",
+    "category_en": "Extension & Training",
+    "category_ta": "விரிவாக்கம் & பயிற்சி",
+    "title_en": "Farmers' Training Centres (FTC) & Crop Yield Competition",
+    "title_ta": "விவசாயிகள் பயிற்சி மையங்கள் (FTC) & பயிர் விளைச்சல் போட்டி",
+    "summary_en": "Village-based training, study tours, awards and crop yield competitions to build farmer skills.",
+    "summary_ta": "விவசாயிகளின் திறனை வளர்க்க கிராம அடிப்படை பயிற்சி, கல்விச் சுற்றுலா, விருதுகள் மற்றும் பயிர் விளைச்சல் போட்டிகள்.",
+    "benefits_en": [
+      "Farmers training stipend: Rs.20 per day for 2 days.",
+      "Farmers tour: Rs.2000 for a study tour of 50 members per year.",
+      "Awards on Farmers' Day: prizes worth Rs.150 for 10 best farmers.",
+      "Crop Yield Competition prizes at state level (Paddy/Groundnut first prize Rs.25,000) and district level."
+    ],
+    "benefits_ta": [
+      "விவசாயி பயிற்சி உதவித்தொகை: 2 நாட்களுக்கு நாளொன்றுக்கு ரூ.20.",
+      "விவசாயி சுற்றுலா: ஆண்டுக்கு 50 பேர் கல்விச் சுற்றுலாவுக்கு ரூ.2000.",
+      "விவசாயிகள் தின விருதுகள்: 10 சிறந்த விவசாயிகளுக்கு ரூ.150 மதிப்பு பரிசு.",
+      "பயிர் விளைச்சல் போட்டி பரிசுகள் மாநில அளவில் (நெல்/நிலக்கடலை முதல் பரிசு ரூ.25,000) மற்றும் மாவட்ட அளவில்."
+    ],
+    "eligibility_en": ["All farmers, 30% flow to SC/ST, in the state except specified districts; crop yield competition requires enrollment fee."],
+    "eligibility_ta": ["குறிப்பிட்ட மாவட்டங்கள் தவிர அனைத்து விவசாயிகளும், பட்டியல் சாதி/பழங்குடியினருக்கு 30%; பயிர் விளைச்சல் போட்டிக்கு பதிவுக் கட்டணம் தேவை."],
+    "officers_en": ["Assistant Director of Agriculture (Farmers Training Centres) of the district", "Agricultural Officer / Deputy Agricultural Officer (Block)"],
+    "officers_ta": ["உதவி இயக்குநர், வேளாண்மை (விவசாயிகள் பயிற்சி மையம்)", "வேளாண் அலுவலர் / துணை வேளாண் அலுவலர் (வட்டம்)"],
+    "districts_en": "Statewide with exceptions."
+  },
+  {
+    "id": "seed-village",
+    "category_en": "Seed Programmes",
+    "category_ta": "விதைத் திட்டங்கள்",
+    "title_en": "Seed Village Scheme",
+    "title_ta": "விதைக் கிராமத் திட்டம்",
+    "summary_en": "Foundation/certified seed at 50% cost plus training and storage bins for farmers producing quality seed for their own use and distribution.",
+    "summary_ta": "தங்கள் பயன்பாட்டிற்கும் விநியோகத்திற்கும் தரமான விதை உற்பத்தி செய்யும் விவசாயிகளுக்கு 50% விலையில் அடிப்படை/சான்று விதை, பயிற்சி மற்றும் சேமிப்புத் தொட்டி.",
+    "benefits_en": [
+      "Foundation/Certified seed of paddy, millets, pulses and groundnut at 50% cost.",
+      "Three-day training on seed production technology at 50% cost (50 farmers per training).",
+      "Storage bins: Rs.3000 (20 qtl) / Rs.1500 (10 qtl) or 33% for SC farmers; Rs.2000 / Rs.1000 or 25% for others."
+    ],
+    "benefits_ta": [
+      "நெல், சிறுதானியம், பயறு, நிலக்கடலை அடிப்படை/சான்று விதை 50% விலையில்.",
+      "விதை உற்பத்தி தொழில்நுட்பம் மூன்று நாள் பயிற்சி 50% விலையில் (பயிற்சிக்கு 50 விவசாயிகள்).",
+      "சேமிப்புத் தொட்டி: ரூ.3000 (20 குவிண்டால்)/ரூ.1500 (10 குவிண்டால்) அல்லது பட்டியல் சாதி விவசாயிகளுக்கு 33%; பிறருக்கு ரூ.2000/ரூ.1000 அல்லது 25%."
+    ],
+    "eligibility_en": ["All farmers in the state willing to produce quality seeds from their lands for their own use and distribution to others."],
+    "eligibility_ta": ["தங்கள் நிலங்களில் இருந்து தங்கள் பயன்பாட்டிற்கும் பிற விவசாயிகளுக்கு விநியோகத்திற்கும் தரமான விதை உற்பத்தி செய்ய விரும்பும் மாநிலத்தின் அனைத்து விவசாயிகளும்."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "Statewide."
+  },
+  {
+    "id": "nfsm-rice",
+    "category_en": "National Food Security Mission",
+    "category_ta": "தேசிய உணவு பாதுகாப்பு இயக்கம்",
+    "title_en": "NFSM Rice",
+    "title_ta": "தேசிய உணவு பாதுகாப்பு இயக்கம் - நெல்",
+    "summary_en": "Demonstrations, hybrid rice incentives, farm implements and machinery subsidies in NFSM rice districts.",
+    "summary_ta": "NFSM நெல் மாவட்டங்களில் செய்முறை விளக்கம், கலப்பின நெல் ஊக்கத்தொகை, பண்ணை கருவிகள் மற்றும் இயந்திர மானியங்கள்.",
+    "benefits_en": [
+      "Demonstrations (improved practice / SRI / hybrid): Rs.2500-3000 per 0.4 ha or 50% cost.",
+      "Hybrid rice seed production incentive Rs.1000/qtl; distribution subsidy Rs.2000/qtl (50%).",
+      "Micro-nutrients Rs.500/ha; Conoweeder & implements Rs.3000; plant protection Rs.500/ha.",
+      "Machinery: Zero Till Seed Drill/Multi Crop Planter/Seed Drill/Power Weeder Rs.15,000; Pumpset Rs.10,000; Rotovator Rs.30,000; Power Tiller Rs.45,000; Transplanter Rs.70,000 (each 50% or the stated cap).",
+      "Farmers Field School training Rs.17,000 per 30 farmers."
+    ],
+    "benefits_ta": [
+      "செய்முறை விளக்கம் (மேம்பட்ட முறை/SRI/கலப்பினம்): 0.4 ஹெக்டேருக்கு ரூ.2500-3000 அல்லது 50% விலை.",
+      "கலப்பின நெல் விதை உற்பத்தி ஊக்கம் ரூ.1000/குவிண்டால்; விநியோக மானியம் ரூ.2000/குவிண்டால் (50%).",
+      "நுண்ணூட்டம் ரூ.500/ஹெக்டேர்; கோனோ களையெடுப்பான் & கருவிகள் ரூ.3000; தாவரப் பாதுகாப்பு ரூ.500/ஹெக்டேர்.",
+      "இயந்திரங்கள்: விதைப்பான்/நடவு இயந்திரம்/மின் களையெடுப்பான் ரூ.15,000; பம்பு செட் ரூ.10,000; ரோட்டோவேட்டர் ரூ.30,000; பவர் டில்லர் ரூ.45,000; நடவு இயந்திரம் ரூ.70,000 (ஒவ்வொன்றும் 50% அல்லது வரம்பு).",
+      "விவசாயி வயல் பள்ளி பயிற்சி 30 விவசாயிகளுக்கு ரூ.17,000."
+    ],
+    "eligibility_en": [
+      "All farmers in NFSM Rice districts (Nagapattinam, Pudukkottai, Ramnad, Sivaganga, Tiruvarur).",
+      "33% to SF/MF/Women; 16% to SC, 8% to ST. Assistance limited to five hectares per farmer."
+    ],
+    "eligibility_ta": [
+      "NFSM நெல் மாவட்டங்களில் (நாகப்பட்டினம், புதுக்கோட்டை, ராமநாதபுரம், சிவகங்கை, திருவாரூர்) அனைத்து விவசாயிகளும்.",
+      "சிறு/குறு/மகளிருக்கு 33%; SC-க்கு 16%, ST-க்கு 8%. விவசாயிக்கு ஐந்து ஹெக்டேர் வரை."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "5 NFSM Rice districts."
+  },
+  {
+    "id": "nfsm-pulses",
+    "category_en": "National Food Security Mission",
+    "category_ta": "தேசிய உணவு பாதுகாப்பு இயக்கம்",
+    "title_en": "NFSM Pulses",
+    "title_ta": "தேசிய உணவு பாதுகாப்பு இயக்கம் - பயறு",
+    "summary_en": "Seed production and distribution support, micro-nutrients, sprinklers, storage and machinery in 12 NFSM pulses districts.",
+    "summary_ta": "12 NFSM பயறு மாவட்டங்களில் விதை உற்பத்தி/விநியோகம், நுண்ணூட்டம், தெளிப்பான், சேமிப்பு மற்றும் இயந்திர உதவி.",
+    "benefits_en": [
+      "Foundation & Certified seed production Rs.1000/qtl; certified seed distribution 50% or Rs.1200/qtl.",
+      "Gypsum up to Rs.750/ha; Micro-nutrient Rs.500/ha; IPM demonstration inputs 50% or Rs.750/ha.",
+      "Sprinkler sets 50% up to Rs.7500/ha; Tarpaulin Rs.2100 (50%).",
+      "Storage bins: 1 MT Rs.5000, 0.75 MT Rs.3750, 0.25 MT Rs.2500 (each 50%).",
+      "Machinery: Zero Till Seed Drill/Multi Crop Planter/Seed Drill Rs.15,000; Pumpset Rs.10,000; Rotovator Rs.30,000; Power Tiller Rs.45,000; Knapsack Sprayer Rs.3000.",
+      "TANWABE quality seed production Rs.25,000 per group."
+    ],
+    "benefits_ta": [
+      "அடிப்படை & சான்று விதை உற்பத்தி ரூ.1000/குவிண்டால்; சான்று விதை விநியோகம் 50% அல்லது ரூ.1200/குவிண்டால்.",
+      "ஜிப்சம் ரூ.750/ஹெக்டேர் வரை; நுண்ணூட்டம் ரூ.500/ஹெக்டேர்; IPM செய்முறை உள்ளீடு 50% அல்லது ரூ.750/ஹெக்டேர்.",
+      "தெளிப்பான் செட் 50% ரூ.7500/ஹெக்டேர் வரை; தார்பாய் ரூ.2100 (50%).",
+      "சேமிப்புத் தொட்டி: 1 டன் ரூ.5000, 0.75 டன் ரூ.3750, 0.25 டன் ரூ.2500 (ஒவ்வொன்றும் 50%).",
+      "இயந்திரங்கள்: விதைப்பான்/நடவு இயந்திரம் ரூ.15,000; பம்பு செட் ரூ.10,000; ரோட்டோவேட்டர் ரூ.30,000; பவர் டில்லர் ரூ.45,000; தெளிப்பான் ரூ.3000.",
+      "TANWABE தரமான விதை உற்பத்தி குழுவுக்கு ரூ.25,000."
+    ],
+    "eligibility_en": [
+      "All farmers in the 12 NFSM Pulses districts (Coimbatore, Cuddalore, Erode, Nagapattinam, Namakkal, Tiruvallur, Tiruvarur, Thoothukudi, Tiruvannamalai, Vellore, Villupuram, Virudhunagar).",
+      "33% to SF/MF/Women; 16% SC, 8% ST. Assistance limited to two hectares per farmer."
+    ],
+    "eligibility_ta": [
+      "12 NFSM பயறு மாவட்டங்களில் (கோயம்புத்தூர், கடலூர், ஈரோடு, நாகப்பட்டினம், நாமக்கல், திருவள்ளூர், திருவாரூர், தூத்துக்குடி, திருவண்ணாமலை, வேலூர், விழுப்புரம், விருதுநகர்) அனைத்து விவசாயிகளும்.",
+      "சிறு/குறு/மகளிருக்கு 33%; SC 16%, ST 8%. விவசாயிக்கு இரண்டு ஹெக்டேர் வரை."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "12 NFSM Pulses districts."
+  },
+  {
+    "id": "atma",
+    "category_en": "Extension & Training",
+    "category_ta": "விரிவாக்கம் & பயிற்சி",
+    "title_en": "Agriculture Technology Management Agency (ATMA)",
+    "title_ta": "வேளாண் தொழில்நுட்ப மேலாண்மை நிறுவனம் (ATMA)",
+    "summary_en": "Farmer training, demonstrations, exposure visits, group mobilization, awards and farmer-scientist interactions.",
+    "summary_ta": "விவசாயி பயிற்சி, செய்முறை விளக்கம், வெளிப்பாட்டு பயணம், குழு அமைப்பு, விருதுகள் மற்றும் விவசாயி-அறிவியலாளர் கலந்துரையாடல்.",
+    "benefits_en": [
+      "Training: Inter-State Rs.1000/day, within State Rs.750/day, within District Rs.400/day per farmer (max 21 days).",
+      "Demonstrations: Rs.4000 per acre (agri & allied); farmer-to-farmer dissemination Rs.1500.",
+      "Exposure visits: Inter-state Rs.600/day, within State Rs.300/day, within District Rs.250/day (max 10 days).",
+      "Group mobilization: Rs.5000/group/year capacity building; Rs.10,000 seed/revolving fund per FIG/CIG.",
+      "Rewards: best groups Rs.20,000/year; best farmers Rs.10,000/year; farmer-scientist interaction Rs.20,000."
+    ],
+    "benefits_ta": [
+      "பயிற்சி: மாநிலங்களுக்கு இடையே ரூ.1000/நாள், மாநிலத்திற்குள் ரூ.750/நாள், மாவட்டத்திற்குள் ரூ.400/நாள் (அதிகபட்சம் 21 நாட்கள்).",
+      "செய்முறை விளக்கம்: ஏக்கருக்கு ரூ.4000 (வேளாண் & அதனுடன் தொடர்புடையவை); விவசாயி-விவசாயி பரப்புதல் ரூ.1500.",
+      "வெளிப்பாட்டு பயணம்: மாநிலங்களுக்கு இடையே ரூ.600/நாள், மாநிலத்திற்குள் ரூ.300/நாள், மாவட்டத்திற்குள் ரூ.250/நாள் (அதிகபட்சம் 10 நாட்கள்).",
+      "குழு அமைப்பு: திறன் மேம்பாட்டுக்கு குழுவுக்கு ஆண்டுக்கு ரூ.5000; FIG/CIG-க்கு ரூ.10,000 சுழல் நிதி.",
+      "விருதுகள்: சிறந்த குழுக்கள் ஆண்டுக்கு ரூ.20,000; சிறந்த விவசாயிகள் ஆண்டுக்கு ரூ.10,000; விவசாயி-அறிவியலாளர் கலந்துரையாடல் ரூ.20,000."
+    ],
+    "eligibility_en": ["All general, SC/ST and women individual farmers; members of SHGs, FIGs, CIGs, TANWABE and farmer associations."],
+    "eligibility_ta": ["அனைத்து பொது, பட்டியல் சாதி/பழங்குடி மற்றும் மகளிர் விவசாயிகள்; சுய உதவிக் குழு, FIG, CIG, TANWABE மற்றும் விவசாயி சங்க உறுப்பினர்கள்."],
+    "officers_en": ["Joint Director of Agriculture / Project Officer, District ATMA", "Assistant Director of Agriculture / Block Technical Team / Convener of ATMA (Block)"],
+    "officers_ta": ["இணை இயக்குநர், வேளாண்மை / திட்ட அலுவலர், மாவட்ட ATMA", "உதவி இயக்குநர், வேளாண்மை / தொகுதி தொழில்நுட்பக் குழு / ATMA ஒருங்கிணைப்பாளர் (வட்டம்)"],
+    "districts_en": "Statewide."
+  },
+  {
+    "id": "rkvy-precision",
+    "category_en": "RKVY & Development Projects",
+    "category_ta": "RKVY & மேம்பாட்டுத் திட்டங்கள்",
+    "title_en": "RKVY - Precision Farming",
+    "title_ta": "RKVY - துல்லிய வேளாண்மை",
+    "summary_en": "Support for drip & fertigation systems, community nurseries, inputs and training under the National Agricultural Development Project (RKVY).",
+    "summary_ta": "தேசிய வேளாண் மேம்பாட்டுத் திட்டத்தின் (RKVY) கீழ் சொட்டு & உர நீர்ப்பாசன அமைப்பு, சமூக நாற்றங்கால், உள்ளீடு மற்றும் பயிற்சி உதவி.",
+    "benefits_en": [
+      "Drip & fertigation system: 50% subsidy on unit cost Rs.80,000/ha (i.e. Rs.40,000/ha subsidy).",
+      "Community nursery: Rs.1.00 lakh per unit (1 per 20 ha) for farmer groups.",
+      "Inputs: seed & plants Rs.5000/ha; water soluble fertilizers Rs.15,000/ha; plant protection chemicals Rs.5000/ha.",
+      "Training Rs.500/day/head (2 days at Dharmapuri); exposure visit to markets Rs.2500/head."
+    ],
+    "benefits_ta": [
+      "சொட்டு & உர நீர்ப்பாசன அமைப்பு: அலகு விலை ரூ.80,000/ஹெக்டேரில் 50% மானியம் (ரூ.40,000/ஹெக்டேர் மானியம்).",
+      "சமூக நாற்றங்கால்: விவசாயி குழுவுக்கு அலகுக்கு ரூ.1.00 லட்சம் (20 ஹெக்டேருக்கு 1).",
+      "உள்ளீடு: விதை & செடிகள் ரூ.5000/ஹெக்டேர்; நீரில் கரையும் உரம் ரூ.15,000/ஹெக்டேர்; தாவரப் பாதுகாப்பு வேதிப்பொருள் ரூ.5000/ஹெக்டேர்.",
+      "பயிற்சி ரூ.500/நாள்/நபர் (தர்மபுரியில் 2 நாட்கள்); சந்தை வெளிப்பாட்டு பயணம் ரூ.2500/நபர்."
+    ],
+    "eligibility_en": ["All districts except Chennai and The Nilgiris for agricultural crops; registered farmer groups, subsidy up to one hectare per farmer."],
+    "eligibility_ta": ["வேளாண் பயிர்களுக்கு சென்னை & நீலகிரி தவிர அனைத்து மாவட்டங்களும்; பதிவு செய்யப்பட்ட விவசாயி குழுக்கள், விவசாயிக்கு ஒரு ஹெக்டேர் வரை மானியம்."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "All districts except Chennai and The Nilgiris."
+  },
+  {
+    "id": "dryland-development",
+    "category_en": "RKVY & Development Projects",
+    "category_ta": "RKVY & மேம்பாட்டுத் திட்டங்கள்",
+    "title_en": "Dryland Development & Maximizing Crop Productivity",
+    "title_ta": "காய்வன நில மேம்பாடு & பயிர் உற்பத்தி அதிகரிப்பு",
+    "summary_en": "Cultivation expense subsidy and machinery support for small & marginal dryland farmers growing millets and pulses in clusters.",
+    "summary_ta": "கொத்தணிகளில் சிறுதானியம் மற்றும் பயறு பயிரிடும் சிறு & குறு காய்வன நில விவசாயிகளுக்கு சாகுபடி செலவு மானியம் மற்றும் இயந்திர உதவி.",
+    "benefits_en": [
+      "Cultivation expenses: 50% subsidy on Rs.7,500 per ha.",
+      "Machinery (50% subsidy each): Chisel Plough Rs.7,500; Broad Bed Furrow Rs.35,000; Basin Lister Rs.35,000; Seed Drill Rs.35,000; Long Handled Weeder Rs.600; Top Dress Fertilizer Applicator Rs.1,500.",
+      "Mini Combine Harvester Rs.6.25 lakh; Millet Mill Dehusker Rs.1.00 lakh; Cleaner cum Grader Rs.50,000 (50% each)."
+    ],
+    "benefits_ta": [
+      "சாகுபடி செலவு: ஹெக்டேருக்கு ரூ.7,500-இல் 50% மானியம்.",
+      "இயந்திரங்கள் (ஒவ்வொன்றும் 50% மானியம்): உளி கலப்பை ரூ.7,500; அகன்ற பாத்தி வரப்பு ரூ.35,000; படுகை உருவாக்கி ரூ.35,000; விதைப்பான் ரூ.35,000; நீள் கை களையெடுப்பான் ரூ.600; மேல் உர பயன்படுத்தி ரூ.1,500.",
+      "மினி அறுவடை இயந்திரம் ரூ.6.25 லட்சம்; சிறுதானிய உமி நீக்கி ரூ.1.00 லட்சம்; சுத்தி & தரம் பிரிப்பான் ரூ.50,000 (ஒவ்வொன்றும் 50%)."
+    ],
+    "eligibility_en": [
+      "Small & Marginal dryland farmers in specified Phase-I (40 blocks) and Phase-II (30 blocks) districts.",
+      "Dryland farmers who come forward to cultivate millets and pulses in clusters."
+    ],
+    "eligibility_ta": [
+      "குறிப்பிட்ட கட்டம்-I (40 வட்டங்கள்) மற்றும் கட்டம்-II (30 வட்டங்கள்) மாவட்டங்களில் சிறு & குறு காய்வன நில விவசாயிகள்.",
+      "கொத்தணிகளில் சிறுதானியம் மற்றும் பயறு பயிரிட முன்வரும் காய்வன நில விவசாயிகள்."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District) and AED officers"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்) மற்றும் AED அலுவலர்கள்"],
+    "districts_en": "Phase-I & Phase-II specified blocks/districts."
+  },
+  {
+    "id": "agri-clinic",
+    "category_en": "Enterprise & Infrastructure",
+    "category_ta": "தொழில் & உள்கட்டமைப்பு",
+    "title_en": "Agri Clinic cum Mini Soil Testing Laboratory",
+    "title_ta": "வேளாண் கிளினிக் & சிறு மண் பரிசோதனை ஆய்வகம்",
+    "summary_en": "Back-ended subsidy for unemployed agriculture graduates/diploma holders to establish an Agri Clinic with a mini soil testing lab.",
+    "summary_ta": "வேலையில்லா வேளாண் பட்டதாரிகள்/டிப்ளமோ படித்தவர்கள் சிறு மண் பரிசோதனை ஆய்வகத்துடன் வேளாண் கிளினிக் அமைக்க பின் இணைப்பு மானியம்.",
+    "benefits_en": [
+      "Unit cost Rs.6.00 lakh per Agri Clinic with 50% back-ended subsidy of Rs.3.00 lakh through a tie-up loan with commercial banks.",
+      "One Agri Clinic per block across 385 blocks."
+    ],
+    "benefits_ta": [
+      "ஒரு வேளாண் கிளினிக்கின் அலகு விலை ரூ.6.00 லட்சம்; வணிக வங்கிக் கடன் மூலம் 50% பின் இணைப்பு மானியம் ரூ.3.00 லட்சம்.",
+      "385 வட்டங்களில் ஒவ்வொரு வட்டத்திற்கும் ஒரு வேளாண் கிளினிக்."
+    ],
+    "eligibility_en": [
+      "Unemployed graduates in Agriculture/Horticulture/Forestry/Agricultural Engineering; retired technical officers and scientists (within four years of retirement); diploma holders; Primary Agricultural Co-operative Banks.",
+      "Willing to mobilize funds through a commercial bank loan."
+    ],
+    "eligibility_ta": [
+      "வேலையில்லா வேளாண்/தோட்டக்கலை/வனவியல்/வேளாண் பொறியியல் பட்டதாரிகள்; ஓய்வுபெற்ற தொழில்நுட்ப அலுவலர்கள் மற்றும் அறிவியலாளர்கள் (ஓய்வுபெற்ற நான்கு ஆண்டுகளுக்குள்); டிப்ளமோ படித்தவர்கள்; ஆரம்ப வேளாண் கூட்டுறவு வங்கிகள்.",
+      "வணிக வங்கிக் கடன் மூலம் நிதி திரட்ட விரும்புபவர்கள்."
+    ],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District) / Director"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்) / இயக்குநர்"],
+    "districts_en": "385 blocks statewide."
+  },
+  {
+    "id": "organic-farming",
+    "category_en": "Organic Farming",
+    "category_ta": "இயற்கை வேளாண்மை",
+    "title_en": "Organic Farming & Organic Manure Production",
+    "title_ta": "இயற்கை வேளாண்மை & இயற்கை உர உற்பத்தி",
+    "summary_en": "Training and back-ended subsidies to establish vermicompost, municipal compost and bio-input production units.",
+    "summary_ta": "மண்புழு உரம், நகராட்சி உரம் மற்றும் உயிர் உள்ளீடு உற்பத்தி அலகுகளை அமைக்க பயிற்சி மற்றும் பின் இணைப்பு மானியங்கள்.",
+    "benefits_en": [
+      "Vermicompost units: 50% back-ended subsidy of Rs.45,000 per unit (unit cost Rs.90,000).",
+      "Municipal compost units: 50% back-ended subsidy of Rs.2.05 lakh per unit (unit cost Rs.4.10 lakh).",
+      "Bio-input production units: 50% back-ended subsidy of Rs.1.25 lakh per unit (unit cost Rs.2.50 lakh).",
+      "Training on organic farming and manure production for farmers & SHGs; free Leaf Colour Charts to SRI farmers."
+    ],
+    "benefits_ta": [
+      "மண்புழு உர அலகுகள்: அலகுக்கு 50% பின் இணைப்பு மானியம் ரூ.45,000 (அலகு விலை ரூ.90,000).",
+      "நகராட்சி உர அலகுகள்: அலகுக்கு 50% பின் இணைப்பு மானியம் ரூ.2.05 லட்சம் (அலகு விலை ரூ.4.10 லட்சம்).",
+      "உயிர் உள்ளீடு உற்பத்தி அலகுகள்: அலகுக்கு 50% பின் இணைப்பு மானியம் ரூ.1.25 லட்சம் (அலகு விலை ரூ.2.50 லட்சம்).",
+      "விவசாயிகள் & சுய உதவிக் குழுக்களுக்கு இயற்கை வேளாண்மை/உர உற்பத்தி பயிற்சி; SRI விவசாயிகளுக்கு இலவச இலை நிற அட்டை."
+    ],
+    "eligibility_en": ["Farmers and Self Help Groups in specified focus districts (Phase-I and Phase-II), typically at 5 farmers or one SHG per block."],
+    "eligibility_ta": ["குறிப்பிட்ட முன்னுரிமை மாவட்டங்களில் (கட்டம்-I மற்றும் கட்டம்-II) விவசாயிகள் மற்றும் சுய உதவிக் குழுக்கள், பொதுவாக வட்டத்திற்கு 5 விவசாயிகள் அல்லது ஒரு SHG."],
+    "officers_en": ["Assistant Agricultural Officer (Village)", "Deputy Agricultural Officer / Agricultural Officer (Block)", "Assistant Director of Agriculture (Block)", "Joint Director of Agriculture (District)"],
+    "officers_ta": ["உதவி வேளாண் அலுவலர் (கிராமம்)", "துணை வேளாண் அலுவலர் / வேளாண் அலுவலர் (வட்டம்)", "உதவி இயக்குநர், வேளாண்மை (வட்டம்)", "இணை இயக்குநர், வேளாண்மை (மாவட்டம்)"],
+    "districts_en": "18 focus districts (Phase-wise)."
+  }
+]
